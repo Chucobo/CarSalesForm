@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Work\\Semester 1\\TAFE VS\\CarSalesV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E0F88-90DA-474E-823E-C951C5B423B5}|CarSalesV2\\CarSalesV2.csproj|f:\\work\\semester 1\\tafe vs\\carsalesv2\\carsalesv2\\carsalesv2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B8E0F88-90DA-474E-823E-C951C5B423B5}|CarSalesV2\\CarSalesV2.csproj|solutionrelative:carsalesv2\\carsalesv2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E0F88-90DA-474E-823E-C951C5B423B5}|CarSalesV2\\CarSalesV2.csproj|f:\\work\\semester 1\\tafe vs\\carsalesv2\\carsalesv2\\carsalesv2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E0F88-90DA-474E-823E-C951C5B423B5}|CarSalesV2\\CarSalesV2.csproj|solutionrelative:carsalesv2\\carsalesv2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E0F88-90DA-474E-823E-C951C5B423B5}|CarSalesV2\\CarSalesV2.csproj|F:\\Work\\Semester 1\\TAFE VS\\CarSalesV2\\carsalesv2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E0F88-90DA-474E-823E-C951C5B423B5}|CarSalesV2\\CarSalesV2.csproj|solutionrelative:carsalesv2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E0F88-90DA-474E-823E-C951C5B423B5}|CarSalesV2\\CarSalesV2.csproj|F:\\Work\\Semester 1\\TAFE VS\\CarSalesV2\\carsalesv2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B8E0F88-90DA-474E-823E-C951C5B423B5}|CarSalesV2\\CarSalesV2.csproj|solutionrelative:carsalesv2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E0F88-90DA-474E-823E-C951C5B423B5}|CarSalesV2\\CarSalesV2.csproj|F:\\Work\\Semester 1\\TAFE VS\\CarSalesV2\\carsalesv2\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E0F88-90DA-474E-823E-C951C5B423B5}|CarSalesV2\\CarSalesV2.csproj|solutionrelative:carsalesv2\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "F:\\Work\\Semester 1\\TAFE VS\\CarSalesV2\\CarSalesV2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CarSalesV2\\App.xaml.cs",
+              "ToolTip": "F:\\Work\\Semester 1\\TAFE VS\\CarSalesV2\\CarSalesV2\\App.xaml.cs",
+              "RelativeToolTip": "CarSalesV2\\App.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwDsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T02:32:30.917Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarSalesV2.xaml.cs",
+              "DocumentMoniker": "F:\\Work\\Semester 1\\TAFE VS\\CarSalesV2\\CarSalesV2\\CarSalesV2.xaml.cs",
+              "RelativeDocumentMoniker": "CarSalesV2\\CarSalesV2.xaml.cs",
+              "ToolTip": "F:\\Work\\Semester 1\\TAFE VS\\CarSalesV2\\CarSalesV2\\CarSalesV2.xaml.cs",
+              "RelativeToolTip": "CarSalesV2\\CarSalesV2.xaml.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAADwv7sAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:05:36.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "F:\\Work\\Semester 1\\TAFE VS\\CarSalesV2\\CarSalesV2\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "CarSalesV2\\MainPage.xaml.cs",
+              "ToolTip": "F:\\Work\\Semester 1\\TAFE VS\\CarSalesV2\\CarSalesV2\\MainPage.xaml.cs",
+              "RelativeToolTip": "CarSalesV2\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-17T02:01:28.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "F:\\Work\\Semester 1\\TAFE VS\\CarSalesV2\\CarSalesV2\\MainPage.xaml",
+              "RelativeDocumentMoniker": "CarSalesV2\\MainPage.xaml",
+              "ToolTip": "F:\\Work\\Semester 1\\TAFE VS\\CarSalesV2\\CarSalesV2\\MainPage.xaml",
+              "RelativeToolTip": "CarSalesV2\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-17T02:01:23.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarSalesV2.xaml",
+              "DocumentMoniker": "F:\\Work\\Semester 1\\TAFE VS\\CarSalesV2\\CarSalesV2\\CarSalesV2.xaml",
+              "RelativeDocumentMoniker": "CarSalesV2\\CarSalesV2.xaml",
+              "ToolTip": "F:\\Work\\Semester 1\\TAFE VS\\CarSalesV2\\CarSalesV2\\CarSalesV2.xaml",
+              "RelativeToolTip": "CarSalesV2\\CarSalesV2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-16T11:05:37.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
